@@ -23,3 +23,7 @@ description varchar(250)
 ## Business Problems and Solutions
 ## 1.count the number of movies vs TV shows
 select type,count(*) from netflix1 group by type;
+
+## list all movies released in a specific time (i.g 2021)
+![image](https://github.com/user-attachments/assets/6669a014-da23-49c0-a9c2-bb992402a10a)
+
